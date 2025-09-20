@@ -38,7 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sameeraeeda&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameeraeeda&theme=radical)  
 
-> *Note: Top languages chart removed — manually highlighted Java as top language.*
+
 
 ---
 
