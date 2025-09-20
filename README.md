@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sameera Eeda
 
-💻 A passionate Full Stack Developer from Hyderabad, India  
+💻 A passionate Full Stack Developer from Hyderabad, India 
 
 ---
 
