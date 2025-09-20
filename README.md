@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,express,flask,mongodb,mysql,git,github,aws,postman,vscode" />
 </p>
 
+![Top Language](https://img.shields.io/badge/Top%20Language-Java-red)
+
 ---
 
 ### 📂 Featured Projects
@@ -35,7 +37,8 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sameeraeeda&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameeraeeda&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameeraeeda&layout=compact&theme=radical)
+
+> *Note: Top languages chart removed — manually highlighted Java as top language.*
 
 ---
 
@@ -52,3 +55,4 @@
 <a href="https://www.linkedin.com/in/sameera-eeda-8baaa4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sameeraeeda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
