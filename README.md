@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing **B.Tech at KMIT, Hyderabad** (Nov 2022 – June 2026) with GPA: 8.56  
+- 🎓 Pursuing **B.Tech at KMIT, Hyderabad** (Nov 2022 – June 2026) with GPA: 8.6 
 - 🌱 Currently learning **MERN Stack & Cloud Technologies**  
 - 👨‍💻 I love solving **DSA problems** (300+ problems solved)  
 - 🛠️ Actively building projects in **JavaScript, React, Node.js, Flask, MongoDB**  
