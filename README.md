@@ -51,7 +51,6 @@
 
 ### 🌐 Connect with Me
 <p>
-<a href="https://leetcode.com/u/SAMEERAEEDA_09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sameera-eeda-8baaa4264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sameeraeeda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
